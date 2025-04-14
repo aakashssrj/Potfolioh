@@ -16,20 +16,20 @@ const Projects = () => {
           desc: 'The team at Webelite Builders exceeded our expectations with their digital marketing expertise. Highly recommend!',
           image: SpicyBites,
           live: "https://spicybites.netlify.app/",
-          github: "https://github.com/rohitsingh93300/YtSpicyBites"
+          github: "https://github.com/aakashssrj/Potfolioh.git"
         },
         {
           title: 'YouTube Clone',
           desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
           image: Youtube,
           live: "https://youtube-clone-93300.netlify.app/",
-          github: "https://github.com/rohitsingh93300/YouTube-clone"
+          github: "https://github.com/aakashssrj/Potfolioh.git"
         },
         {
           title: 'Webelite builder',
           desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
           image: Webelite,
-          live: "https://www.webelitebuilders.com/",
+          live: "https://github.com/aakashssrj/Potfolioh.git",
           github: "#"
         },
         {
@@ -37,7 +37,7 @@ const Projects = () => {
           desc: 'Working with Webelite Builders was a seamless experience. They brought our vision to life with a modern, responsive website.',
           image: Supercar,
           live: "https://supercar123.netlify.app/",
-          github: "https://github.com/rohitsingh93300/supercars"
+          github: "https://github.com/aakashssrj/Potfolioh.git"
         },
       ];
 
